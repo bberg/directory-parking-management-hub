@@ -3,7 +3,7 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 export default defineAppConfig({
   general: {
     // todo make dynamic
-    title: "Directory",
+    title: "Parking Management Hub Directory",
     logo: "/logo.png",
     // iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
@@ -11,9 +11,11 @@ export default defineAppConfig({
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: "Directory",
-    description: "Directory",
-    url: "https://Directory.com",
+    name: "Parking Management Hub Directory",
+    description: "Directory of Parking Management Companies and Software Solutions
+
+Parking Management Hub",
+    url: "parkingmanagementhub.com",
     favicon: {
       image: "",
       emoji: "",
@@ -82,7 +84,7 @@ export default defineAppConfig({
     navbar: {
       colorModeSelector: true,
       links: [
-        { name: "Directory", to: "/" },
+        { name: "Parking Management Hub Directory", to: "/" },
         // { name: "Info", to: "/blog" },
         // { name: "Advertise", to: "/advertise" },
         // {
@@ -98,7 +100,7 @@ export default defineAppConfig({
     },
   },
   footer: {
-    description: "Directory for finding appropriate businesses, services, and products",
+    description: "Parking Management Hub: A directory for finding appropriate parking management companies, software solutions, and services",
     // socials: {
     //   github: {
     //     link: "",
