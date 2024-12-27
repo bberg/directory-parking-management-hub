@@ -12,9 +12,7 @@ export default defineAppConfig({
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
     name: "Parking Management Hub Directory",
-    description: "Directory of Parking Management Companies and Software Solutions
-
-Parking Management Hub",
+    description: "Directory of Parking Management Companies and Software Solutions - Parking Management Hub",
     url: "parkingmanagementhub.com",
     favicon: {
       image: "",
