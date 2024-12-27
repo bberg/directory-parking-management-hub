@@ -15,8 +15,7 @@ export default defineNuxtConfig({
     'nuxt-gtag',
   ],
   gtag: {
-    // todo make dynamic
-    id: "placeholder"
+    id: "G-6H2HQD2DLE"
   },
 
   colorMode: {
