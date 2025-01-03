@@ -1,30 +1,31 @@
 ---
 title: Parking Management Company
 featured: false
-invert: false
-card_image: logo-black-red_3.svg
-description: Hospitality focused parking services provider based in the Nashville area and primarily offering valet services for hospitality and medical industries.
+invert: true
+card_image: Secondary-Logo-w-Website.png
+description: National parking management operator with a substantial presence providing valet, event and facility management services with over 1100 locations served.
 tags: 
  - Valet Services
  - Facility Management
+ - Event Management
 ---
 
 <div align="center">
-<a href="https://www.visitmusiccity.com/local-business/parking-management-company-pmc">
-<img src="logo-black-red_3.svg" alt="Logo" style="min-width: 200px; max-width: 600px; height: auto;" >
+<a href="https://parkingmgt.com/">
+<img src="Secondary-Logo-w-Website.png" alt="Logo" style="min-width: 200px; max-width: 600px; height: auto;" class="invert">
 </a>
 </div>
 
 # Parking Management Company
-<a href="https://www.visitmusiccity.com/local-business/parking-management-company-pmc">Visit Website</a>
+<a href="https://parkingmgt.com/">Visit Website</a>
 <br>
 <br>
-**Hospitality focused parking services provider based in the Nashville area and primarily offering valet services for hospitality and medical industries.**
+**National parking management operator with a substantial presence providing valet, event and facility management services with over 1100 locations served.**
 
 ## Overview
-Parking Management Company (PMC) is a rapidly expanding, employee-owned enterprise that specializes in providing top-notch hospitality parking services. As a prominent player in the industry, PMC distinguishes itself through its employee ownership structure, which fosters a strong commitment to customer service and operational excellence. The company's rapid growth trajectory illustrates its dedication to expanding service offerings and improving client experiences. In the competitive market of hospitality and commercial parking management, PMC has established itself as a key player by delivering tailored solutions that meet diverse client needs effectively.
+Parking Management Company (PMC) is a rapidly growing, employee-owned enterprise specializing in hospitality parking services and commercial parking management. The company is known for its "Relentless Hospitality" philosophy, which focuses on delivering outstanding customer service across all operations. PMC's innovative solutions and commitment to client satisfaction distinguish it from competitors, allowing it to foster strong partnerships and expand its market presence nationwide.
 ## Products & Services 
-PMC offers a comprehensive range of hospitality parking services, which includes valet parking, self-parking management, and automated parking solutions. These services are designed to enhance customer satisfaction, provide convenience, and ensure efficient parking management across various venues such as hotels, restaurants, and event spaces. The company also extends its expertise to commercial parking management, offering services like on-site supervision, revenue control solutions, and facility maintenance to optimize parking operations for commercial establishments.
+PMC offers a comprehensive suite of parking services tailored to a variety of sectors. These include valet, bell, shuttle, and self-parking services specifically designed for hotels, healthcare, restaurants, casinos, and event venues. In addition, PMC provides cutting-edge technology solutions such as digital tipping and PMC Pay to enhance customer experience and operational efficiency.
 ## Company Details 
-Founded in Nashville, Tennessee, PMC serves a diverse range of markets within the hospitality and commercial sectors. The company takes pride in its strong ties to the Nashville community and its ability to extend its services to other regions as well. Its foundation and growth in Nashville provide a strategic advantage, allowing PMC to leverage the city’s vibrant hospitality and tourism scene. With a commitment to providing exceptional service and a focus on innovation, PMC continues to expand its footprint in both local and national markets.
+Based in the United States, PMC operates on a national scale, managing over 600 hotel operations, 500 self-parking operations, and delivering services at over 1,000 events annually. With more than 7,000 associates, PMC caters to a wide range of clients, including healthcare organizations, commercial lots, and restaurants, allowing it to serve diverse markets across various states since its inception.
 
