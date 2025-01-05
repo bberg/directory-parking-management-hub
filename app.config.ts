@@ -91,7 +91,7 @@ export default defineAppConfig({
       colorModeSelector: true,
       links: [
         { name: "Directory", to: "/" },
-        // { name: "Info", to: "/blog" },
+        { name: "Info", to: "/blog" },
         // { name: "Advertise", to: "/advertise" },
         // {
         //   name: "Analytics",

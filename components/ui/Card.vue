@@ -9,18 +9,20 @@ defineProps(['item']);
   <NuxtLink :to="item._path" v-if="cardConfig?.type !== 'bullet'"
     class="border col-span-1 border-gray-200 dark:border-gray-500 hover:border-primary-400 hover:border-solid dark:hover:border-primary-300 rounded relative group transition-all"
     :class="cardConfig?.type === 'shadow' ? 'shadow-sm' : cardConfig?.type === 'dashed' ? 'border-dashed' : ''">
+    <template v-if="!hideImage">
     <DirectoryFeaturedTag class="ml-6" v-if="item.featured" />
-    <div  v-if="item.card_image" class="w-full h-36 rounded-t flex items-center justify-center bg-gray-200 dark:bg-gray-600">
-    <NuxtImg sizes="400px" :alt="`${item.title} banner`"
-      class="w-full max-h-36 object-scale-down"
-      :src="item.card_image ?? '/logo.png'"
-      :class=" item.invert ? 'invert' : ''"
-    />
-    </div>
-    <div v-else
-      class="w-full h-36 flex justify-center items-center rounded-t font-bold text-2xl bg-gray-200 dark:bg-gray-600">
-      {{ item.title }}
-    </div>
+      <div  v-if="item.card_image" class="w-full h-36 rounded-t flex items-center justify-center bg-gray-200 dark:bg-gray-600">
+      <NuxtImg sizes="400px" :alt="`${item.title} banner`"
+        class="w-full max-h-36 object-scale-down"
+        :src="item.card_image ?? '/logo.png'"
+        :class=" item.invert ? 'invert' : ''"
+      />
+      </div>
+      <div v-else
+        class="w-full h-36 flex justify-center items-center rounded-t font-bold text-2xl bg-gray-200 dark:bg-gray-600">
+        {{ item.title }}
+      </div>
+    </template>
     <div class="p-6">
       <h3 class="m-0 font-semibold dark:text-gray-50">
         {{ item.title }}
