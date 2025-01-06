@@ -19,7 +19,7 @@ defineProps(['item']);
       />
       </div>
       <div v-else
-        class="w-full h-36 flex justify-center items-center rounded-t font-bold text-2xl bg-gray-200 dark:bg-gray-600">
+        class="w-full h-0 rounded-t font-bold text-2xl bg-gray-200 dark:bg-gray-600 line-clamp-4 overflow-hidden">
         {{ item.title }}
       </div>
     </template>
