@@ -84,14 +84,14 @@ export default defineAppConfig({
     banner: {
       show: false,
       text: "Add your listing",
-      link: "https://Directory.com",
+      link: "https://ParkingManagementHub.com",
       brandText: "Directory",
     },
     navbar: {
       colorModeSelector: true,
       links: [
         { name: "Directory", to: "/" },
-        { name: "Info", to: "/blog" },
+        { name: "Blog", to: "/blog" },
         // { name: "Advertise", to: "/advertise" },
         // {
         //   name: "Analytics",

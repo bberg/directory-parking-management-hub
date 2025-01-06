@@ -17,7 +17,7 @@ Elevate your brand by becoming a sponsor on Parking Management Hub. Sponsors enj
 
 ## Contact
 
-Interested in advertising? Contact us at [contact@parkingmanagementhub.com](mailto:contact@monitoringdirectory.com) to learn more about our advertising options.
+Interested in advertising? Contact us at [contact@parkingmanagementhub.com](mailto:contact@parkingmanagementhub.com) to learn more about our advertising options.
 
 ---
 
